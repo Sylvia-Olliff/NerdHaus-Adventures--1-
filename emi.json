@@ -1,0 +1,30 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:itemfilters:or",
+    "item:death_knights:frost_dk_ring",
+    "item:death_knights:frost_spell_book",
+    "item:wizards:staff_smaragdant_frost{Damage:0}",
+    "item:eldritch_end:necronomicon",
+    "item:ftbquests:book",
+    {
+      "type": "item",
+      "id": "minecraft:honeycomb",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "the_bumblezone:porous_honeycomb_block",
+      "amount": 4
+    },
+    "item:minecraft:sticky_piston"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
