@@ -3,7 +3,7 @@
 att-debug/
 buildguide/
 crash-reports/
-data/
+/data/
 defaultconfigs/
 downloads/
 local/
@@ -14,6 +14,8 @@ schematics/
 stackdeobf_mappings/
 xaero/
 XaeroWaypoints_BACKUP240807/
+/modern_industrialization/
+/modernfix/
 
 .curseclient
 minecraftinstance.json
@@ -23,3 +25,6 @@ usercache.json
 user-prefs.json
 usernamecache.json
 options.amecsapi.txt
+rhino.local.properties
+
+win_event*

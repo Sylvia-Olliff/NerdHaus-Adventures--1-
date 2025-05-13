@@ -123,3 +123,9 @@
 	#On first world join of modpack creator if set to false shows greeting, then self enables.
 	shown_greeting = true
 
+#Checks crash_assistant compatibility with other incompatible mods.
+#Highly unrecommended to disable!
+[compatibility]
+	#Enable feature.
+	enabled = true
+
